@@ -1,0 +1,4 @@
+C:\Users\geekd\source\repos\ModernSigninForm\Debug\ModernSigninForm.vcxproj.AssemblyReference.cache
+C:\Users\geekd\source\repos\ModernSigninForm\Debug\ModernSigninForm.MyForm.resources
+C:\Users\geekd\source\repos\ModernSigninForm\Debug\ModernSigninForm.vcxproj.GenerateResource.cache
+C:\Users\geekd\source\repos\ModernSigninForm\Debug\ModernSigninForm.exe
