@@ -1,0 +1,4 @@
+C:\Users\geekd\source\repos\TitleBar\Debug\TitleBar.vcxproj.AssemblyReference.cache
+C:\Users\geekd\source\repos\TitleBar\Debug\TitleBar.exe
+C:\Users\geekd\source\repos\TitleBar\Debug\TitleBar.MyForm.resources
+C:\Users\geekd\source\repos\TitleBar\Debug\TitleBar.vcxproj.GenerateResource.cache

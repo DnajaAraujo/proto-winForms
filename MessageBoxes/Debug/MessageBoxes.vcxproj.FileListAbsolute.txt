@@ -1,0 +1,4 @@
+C:\Users\geekd\source\repos\MessageBoxes\Debug\MessageBoxes.vcxproj.AssemblyReference.cache
+C:\Users\geekd\source\repos\MessageBoxes\Debug\MessageBoxes.MyForm.resources
+C:\Users\geekd\source\repos\MessageBoxes\Debug\MessageBoxes.vcxproj.GenerateResource.cache
+C:\Users\geekd\source\repos\MessageBoxes\Debug\MessageBoxes.exe

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\geekd\source\repos\TitleBar\MyForm.cpp(7,33): warning C4829: Parâmetros possivelmente incorretos para função main. Considere o uso de 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  TitleBar.vcxproj -> C:\Users\geekd\source\repos\TitleBar\Debug\TitleBar.exe
